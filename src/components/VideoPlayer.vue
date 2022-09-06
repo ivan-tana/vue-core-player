@@ -7,7 +7,7 @@ Vue.use(VueCoreVideoPlayer)
 
 <template>
   <div class="player-container">
-    <vue-core-video-player @play="your_method" src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"></vue-core-video-player>
+    <vue-core-video-player @play="your_method" src="http://playertest.longtailvideo.com/adaptive/bipbop/gear4/prog_index.m3u8"></vue-core-video-player>
   </div>
 </template>
 

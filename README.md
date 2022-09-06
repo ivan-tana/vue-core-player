@@ -13,13 +13,13 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+make install
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+make run
 ```
 
 ### Compile and Minify for Production
